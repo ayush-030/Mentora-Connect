@@ -5,7 +5,6 @@
 </p>
 
 ### 🔗 **Live Demo:** *https://mentora3.onrender.com*  
-### 📦 **GitHub Repository:** https://github.com/ayush-030/Mentora-Connect.git  
 ### 🧑‍💻 **Developed By:** Ayush Rawat & Mehak
 
 ---
@@ -90,19 +89,19 @@ Each Explore section shows ONLY the relevant recommendations:
 
 ## 🖼️ Screenshots
 
-### 🏠 Home Page  
-![Home](./docs/screenshots/LandingPage.png)
-
 ### 📊 Student Dashboard  
 ![Dashboard](./docs/screenshots/StudentDashboard.png)
 
-### 📁 Smart Matching  
+### 🤖 Smart Matching  
 ![Smart Matches](./docs/screenshots/SmartMatching.png)
+
+### 📂 Active Projects  
+![Active Projects](./docs/screenshots/ActiveProjects.png)
 
 ---
 
 ## 📂 Folder Structure
-
+```
 mentora-platform/
 ├── frontend/ # React Frontend
 ├── backend/ # Flask Backend
@@ -110,6 +109,7 @@ mentora-platform/
 │ └── screenshots/
 ├── README.md
 └── .gitignore
+```
 
 ---
 
