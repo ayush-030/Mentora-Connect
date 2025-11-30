@@ -143,7 +143,7 @@ JWT_SECRET=your_secret
 
 ## 🏁 Deployment
 
-Your Mentora platform is fully deployed on **Render**.
+The Mentora platform is fully deployed on **Render**.
 
 ### 🌐 Frontend Deployment  
 **Render Static Site**  
@@ -167,4 +167,12 @@ Your Mentora platform is fully deployed on **Render**.
 ## ⭐ Want to Support This Project?
 
 If you found this project interesting or useful, feel free to give the repository a ⭐ on GitHub!  
-Your support helps improve visibility and motivates further enhancements.  
+Your support helps improve visibility and motivates further enhancements.
+
+---
+
+## 👤 Author
+
+**Ayush Rawat**  
+📧 [rawat.ayush.work@gmail.com](mailto:rawat.ayush.work@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ayushrawat20)
