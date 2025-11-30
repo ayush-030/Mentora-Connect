@@ -5,7 +5,6 @@
 </p>
 
 ### 🔗 **Live Demo:** *https://mentora3.onrender.com*  
-### 🧑‍💻 **Developed By:** Ayush Rawat & Mehak
 
 ---
 
